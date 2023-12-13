@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.app-container {
+  display: flex;
+}
+.contain {
+  width: 100%;
+}
+.drawer {
+  width: 17%;
+}
+.flex {
+  color: antiquewhite;
+}
+input {
+  background-color: white;
+}
