@@ -17,3 +17,8 @@
 input {
   background-color: white;
 }
+.errormsg {
+  justify-content: center;
+  align-items: center;
+  margin-left: 24rem;
+}
