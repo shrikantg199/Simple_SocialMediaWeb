@@ -1,5 +1,4 @@
 
-```markdown
 # Simple Social Media Website
 
 This is simple social media website project! This web application allows users to create, update, and
